@@ -71,3 +71,5 @@ None
 
 
 # A data type is a type of data that is friendly to python
+
+print((f"Hello {myvar}, how are you?"))
